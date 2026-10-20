@@ -4,7 +4,7 @@
       <ul class="nav nav-pills">
         <li class="nav-item">
           <router-link to="/" class="nav-link" active-class="active" aria-current="page">
-            Home (Week 9)
+            Home (Week 12)
           </router-link>
         </li>
         <li class="nav-item">

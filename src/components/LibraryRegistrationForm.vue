@@ -2,7 +2,7 @@
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8 offset-md-2">
-        <h1 class="text-center">Week 8 Firebase Registration</h1>
+        <h1 class="text-center">Week 12 Firebase Registration</h1>
         <p class="text-center text-muted mb-4">
           Create a Firebase Authentication account for the eFolio task.
         </p>
